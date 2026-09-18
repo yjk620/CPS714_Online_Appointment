@@ -1,6 +1,8 @@
+---
 name: User Story
 about: A feature described from the user's perspective
 labels: user-story
+---
 
 ## Story
 
